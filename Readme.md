@@ -3,7 +3,7 @@
 
 ## Description / Описание
 
- Генератор паролей реализован на языке Python с использованием билиотеки customtkiner.
+ Генератор паролей реализован на языке Python с использованием библиотеки customtkiner.
  Основная идея взята в https://www.youtube.com/watch?v=ibf2u-rVb6o&t=562s.
  Модуль Spinbox заимствован с https://техномастерская.рф/customtkinter.
  
